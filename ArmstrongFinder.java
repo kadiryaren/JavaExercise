@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class ArmstrongFinder {
     // String sayiString = String.valueOf(sayi);   integer dan stringe gecirir.
     // Integer.parseInt("sayi");     bu ifade int to string yapar.
     // (int)Math.pow(a,b)  a sayisinin b ussu nu hesaplar ve int dondurur.
