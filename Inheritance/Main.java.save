@@ -1,0 +1,22 @@
+package com.company;
+// coded by Kadir Yaren
+public class Main{
+
+    public static void main(String[] args) {
+    Employee employee = new Employee("kadir",5000,"IT");
+    employee.Work();
+    MSystem.out.println("--------------------------");
+     = new Yonetici("Ali",8000,"IT",10);
+    yonetici_1.Calis();
+    System.out.println("--------------------------");
+    System.out.println("Yonetici Ismi: " + yonetici_1.getIsim());
+    System.out.println("Yonetici Maasi: " + yonetici_1.getMaas());
+    System.out.println("Yonetici Departman: " + yonetici_1.getDepartman());
+    System.out.println("Yonetici grup_uyesi: " + yonetici_1.getGrup_uyesi());
+    yonetici_1.zamYap();
+    yonetici_1.Servis();
+
+
+
+    }
+}
