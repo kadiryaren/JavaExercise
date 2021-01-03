@@ -1,6 +1,11 @@
 // coded by Kadir Yaren
 
-// foreach loop explained!
+// ArrayList<String> variableName = new ArrayList<String>();   define
+// variableName.add(element); ==> add element in arraylist
+// variableName.get(index)    ==> get index of array for print or other things
+// variableName.set(index,element);    ==> that changes element in index
+// variableName.remove(index or element);   ==> if you put index or element, this function remove it.
+// variableName.indexOf(element);   ==> where is the my  element? index based.
 
 import java.util.ArrayList;
 
@@ -29,12 +34,7 @@ public class Main{
 
         }
 
-        // ArrayList<String> variableName = new ArrayList<String>();   define
-        // variableName.add(element); ==> add element in arraylist
-        // variableName.get(index)    ==> get index of array for print or other things
-        // variableName.set(index,element);    ==> that changes element in index
-        // variableName.remove(index or element);   ==> if you put index or element, this function remove it.
-        // variableName.indexOf(element);   ==> where is the my  element? index based.
+
 
     }
 }
